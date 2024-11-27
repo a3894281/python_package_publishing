@@ -1,5 +1,5 @@
 import unittest
-from python_package.module1 import add, sub
+from main_code.module1 import add, sub
 
 
 class TestModule1(unittest.TestCase):
